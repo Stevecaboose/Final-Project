@@ -1,3 +1,10 @@
+jupyterlab
+requests
+pandas
+textblob
+nltk
+plotly-express
+pytest
 voila
-voila-material
-voila-gridstack
+ipyvuetify
+voila-vuetify
